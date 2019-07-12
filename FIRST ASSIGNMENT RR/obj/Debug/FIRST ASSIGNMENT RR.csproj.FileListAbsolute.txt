@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\FIRST ASSIGNMENT RR\obj\Debug\FIRST ASSIGNMENT RR.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\FIRST ASSIGNMENT RR\obj\Debug\FIRST_ASSIGNMENT_RR.Form1.resources
+C:\Users\hp\source\repos\FIRST ASSIGNMENT RR\obj\Debug\FIRST_ASSIGNMENT_RR.Properties.Resources.resources
+C:\Users\hp\source\repos\FIRST ASSIGNMENT RR\obj\Debug\FIRST_ASSIGNMENT_RR.Resource1.resources
+C:\Users\hp\source\repos\FIRST ASSIGNMENT RR\obj\Debug\FIRST ASSIGNMENT RR.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\FIRST ASSIGNMENT RR\obj\Debug\FIRST ASSIGNMENT RR.csproj.CoreCompileInputs.cache
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\bin\Debug\FIRST ASSIGNMENT RR.exe.config
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\bin\Debug\FIRST ASSIGNMENT RR.exe
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\bin\Debug\FIRST ASSIGNMENT RR.pdb
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\obj\Debug\FIRST ASSIGNMENT RR.csprojAssemblyReference.cache
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\obj\Debug\FIRST_ASSIGNMENT_RR.Form1.resources
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\obj\Debug\FIRST_ASSIGNMENT_RR.Properties.Resources.resources
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\obj\Debug\FIRST_ASSIGNMENT_RR.Resource1.resources
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\obj\Debug\FIRST ASSIGNMENT RR.csproj.GenerateResource.cache
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\obj\Debug\FIRST ASSIGNMENT RR.csproj.CoreCompileInputs.cache
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\obj\Debug\FIRST ASSIGNMENT RR.exe
+C:\Users\navjo\OneDrive\Desktop\FIRST ASSIGNMENT RR\obj\Debug\FIRST ASSIGNMENT RR.pdb
